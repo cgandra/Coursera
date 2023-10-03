@@ -1,0 +1,4 @@
+C:\Projects\Coursera\Github\Self-Driving Cars Specialization\Visual Perception for Self-Driving Cars\Environment Perception For Self-Driving Cars\data\depth\0.dat
+C:\Projects\Coursera\Github\Self-Driving Cars Specialization\Visual Perception for Self-Driving Cars\Environment Perception For Self-Driving Cars\data\depth\1.dat
+C:\Projects\Coursera\Github\Self-Driving Cars Specialization\Visual Perception for Self-Driving Cars\Environment Perception For Self-Driving Cars\data\depth\2.dat
+C:\Projects\Coursera\Github\Self-Driving Cars Specialization\Visual Perception for Self-Driving Cars\Environment Perception For Self-Driving Cars\data\depth\files.txt
